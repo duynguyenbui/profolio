@@ -23,10 +23,11 @@ function About() {
               My strengths are flexibility to handle changes in oder to adapt
               with the growth of technologies, especially in AI era and able to
               work under pressure. During my free time, I often read books,
-              listen to music, and learning new things suitable for me. By
-              contrast, I think gauging how long a task will take me to finish
-              is the hardest thing with me, although I ussally spend a lot of
-              time, may be the whole day to complete.
+              listen to music, and learn new things which are suitable for me.
+              By contrast, I think gauging how long a task will take me to
+              finish is the hardest thing with me, although I tend to spend a
+              lot of time, may be the whole day to complete a task required by
+              my role.
             </p>
             <p className="max-w-[700px] md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400"></p>
           </div>
