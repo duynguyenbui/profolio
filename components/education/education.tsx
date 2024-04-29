@@ -26,6 +26,7 @@ export const Education = () => {
           </p>
         </div>
         <DataTable columns={columns} data={data} />
+        <p>Contact me via social medias for more information</p>
       </div>
     </MotionWrap>
   );

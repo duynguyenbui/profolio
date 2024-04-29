@@ -8,7 +8,7 @@ export function Hero() {
       <div className=" grid items-center justify-center gap-4 px-4 text-center md:px-6 lg:gap-10">
         <div className="space-y-3">
           <div className="inline-block rounded-lg bg-gray-100 px-3 py-1 text-sm dark:bg-gray-800">
-            Senior student of Software Engineering
+            Senior student majoring in Software Engineering
           </div>
           <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl/none">
             Hi, I&apos;m Duy Nguyen
